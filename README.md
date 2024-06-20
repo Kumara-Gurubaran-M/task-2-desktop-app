@@ -4,6 +4,22 @@
 
 Submission Manager is a Windows Forms application developed in Visual Basic .NET. The application allows users to create, view, edit, search, and delete submissions. Each submission includes details such as name, email, phone number, GitHub link, and elapsed time.
 
+### Setup
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/Kumara-Gurubaran-M/task-2-desktop-app.git
+    cd task-2-desktop-app
+    ```
+
+### Steps to Run
+
+
+1. **Run the Decktop:**
+
+    Press `F5` in Visual Studio 2022. This will launch Desktop app 
+   
 ## Features
 
 1. **Main Form (Form1)**
